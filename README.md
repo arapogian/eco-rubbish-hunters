@@ -17,4 +17,4 @@ Eco Rubbish Hunters - Γυμνάσιο Νεάπολης, Αγρίνιο - Ρομ
 
 Το λογισμικό (IDE) για συγγραφή, αποσφαλμάτωση και "ανέβασμα" στον μικροελεγκτή, βρίσκονται στον σύνδεσμο: Arduino Software page από όπου υπάρχει πρόσβαση στον Web Editor ή "σύνδεσμος" για λήψη (download) της Desktop εφαρμογής.
 
-Ο κώδικας υπόκειται σε άδεια [GNU General Public License v3.0]
+Ο κώδικας υπόκειται σε άδεια [GNU General Public License v3.0](https://github.com/arapogian/eco-rubbish-hunters/blob/master/LICENSE)
