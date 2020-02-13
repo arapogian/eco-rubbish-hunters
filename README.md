@@ -21,7 +21,7 @@
 
 
 
-Σχεδιασμός(https://github.com/arapogian/eco-rubbish-hunters/blob/master/%CE%A3%CF%87%CE%B5%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CF%8C%CF%82.md)
+[Σχεδιασμός](https://github.com/arapogian/eco-rubbish-hunters/blob/master/%CE%A3%CF%87%CE%B5%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CF%8C%CF%82.md)
 
 Οδηγίες κατασκευής βρίσκονται στον σύνδεσμο: Construction-notes
 
